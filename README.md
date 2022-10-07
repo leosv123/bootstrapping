@@ -1,7 +1,8 @@
-# bootstrapping
+# Bootstrapping
 
-This respository focuses on understanding Bootstrapping and its implementation in python. \
-One use case of bootstrapping in estimating the model performance metric is implemented.
+This repository focuses on understanding the bootstrapping concepts and its implementation with python. In this we have discussed two use cases:
+1. bootstrapping with random number of samples drawn from a distribution and estimating 'mean'.
+2. Estimating the accuracy of a ML model.
 
 ## Requirements:
 1. Dataset: Diabetes classification dataset file.
