@@ -1,5 +1,5 @@
 # Bootstrapping
-
+[a link](https://medium.com/@lingrajsv1998/bootstrapping-bfda22490b1a) 
 This repository focuses on understanding the bootstrapping concepts and its implementation with python. In this we have discussed two use cases:
 1. Bootstrapping with random number of samples drawn from a normal distribution and estimating its 'mean'.
 2. Estimating the accuracy of a ML model.
@@ -23,3 +23,6 @@ Implementation explains the following contents:
 6. What Next?
 
 Run bootstrap_implementation.ipynb in jupyter console.
+
+![image](https://user-images.githubusercontent.com/37137862/228654844-b2b877f9-b0a3-47fe-aeb9-add5134188e3.png)
+
